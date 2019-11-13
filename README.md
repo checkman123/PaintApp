@@ -1,6 +1,9 @@
-# PaintApp
-A painter app for young kids
+# Painter Application (Qt Creator)
+This is kid friendly drawing application. 
+User will be able to draw, erase, clear, and change the size of the brush.
+You can also put a preset stamp/sticker onto the canvas by using right click.
 
-**DUE TO AN ERROR** My files got corrupted and were unable to be fully recovered. (Will be fixed)
-
-Please check my video for program demonstration.
+**Skills**
+- UI/UX Design
+- QPainter/QMap
+- Real time event interaction
